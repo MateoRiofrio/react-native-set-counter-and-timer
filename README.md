@@ -1,4 +1,4 @@
-# React Native App: Set Counter And Timer
+# React Native App: Timer and Set Counter
 
 ## Screenshot: 
 <img src="emulator_ios.png" width="320" height="607">
