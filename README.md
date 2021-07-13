@@ -1,7 +1,7 @@
 # React Native App: Set Counter And Timer
 
 ## Screenshot: 
-![Image of iPhone emulator](emulator_ios.PNG)
+![Image of iPhone emulator](emulator_ios.png)
 
 ## Description: 
 Built a simple application to count and time the number of (workout) sets. The app resembles the stopwatch tab from the Clock app in iOS. The functionaliy is also similar, but the timer can be used independently from the set counter. The set counter and set table do not get reset with the timer. This is to allow the user to use the timer for other than timing the sets. The timer is made using `Date.getTime()` and `setInterval()` objects. 
