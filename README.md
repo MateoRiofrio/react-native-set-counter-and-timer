@@ -1,10 +1,10 @@
 # React Native App: Timer and Set Counter
 
+## Description: 
+In this mobile application, the user is able to time and count their sets. The timer works independetly of the set counter so it is not mandatory to use the set feature. React native was used because the development process is faster and the app is simple. The most challenging task was displaying the set list as a stack and showing the time elapsed between sets. Multiple components were created to represent each aspect of the app, see below for more details. 
+
 ## Screenshot: 
 <img src="emulator_ios.png" width="320" height="607">
-
-## Description: 
-Built a simple application to count and time the number of (workout) sets. The app resembles the stopwatch tab from the Clock app in iOS. The functionaliy is also similar, but the timer can be used independently from the set counter. The set counter and set table do not get reset with the timer. This is to allow the user to use the timer for other than timing the sets. The timer is made using `Date.getTime()` and `setInterval()` objects. 
 
 ## "Components":
 A set of components are created to represent each aspect of the application.
